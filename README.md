@@ -1,5 +1,7 @@
 # awesome-fanfou
 
+[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+
 All about love for Fanfou
 
 ## Bots
