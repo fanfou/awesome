@@ -21,37 +21,37 @@ We code with ❤️ for Fanfou
 
 ## Plugins
 
-- [space-fanfou](https://github.com/fanfoujs/space-fanfou) - Chrome plugin for Fanfou
-- [code-fanfou](https://github.com/LitoMore/code-fanfou) - Fanfou in VS Code
-- [alfred-fanfou](https://github.com/LitoMore/alfred-fanfou) - Alfred workflow for Fanfou
-- [cerebro-fanfou](https://github.com/LitoMore/cerebro-fanfou) - Cerebro plugin for Fanfou
-- [kap-fanfou](https://github.com/LitoMore/kap-fanfou) - Kap plugin - Share on Fanfou
-- [Wox.Plugin.Fanfou](https://github.com/LitoMore) - Wox plugin for Fanfou
+- [space-fanfou](https://github.com/fanfoujs/space-fanfou) - Chrome extension
+- [code-fanfou](https://github.com/LitoMore/code-fanfou) - VS Code extension
+- [alfred-fanfou](https://github.com/LitoMore/alfred-fanfou) - Alfred workflow
+- [cerebro-fanfou](https://github.com/LitoMore/cerebro-fanfou) - Cerebro plugin
+- [kap-fanfou](https://github.com/LitoMore/kap-fanfou) - Kap plugin
+- [Wox.Plugin.Fanfou](https://github.com/LitoMore) - Wox plugin
 
 ## SDKs
 
-- [fanfou-sdk-node](https://github.com/fanfoujs/fanfou-sdk-node) - Fanfou SDK for Node.js
-- [fanfou-sdk-browser](https://github.com/fanfoujs/fanfou-sdk-browser) - Fanfou SDK for Browser
-- [fanfou-sdk-weapp](https://github.com/fanfoujs/fanfou-sdk-weapp) - Fanfou SDK for WeApp
-- [fanfou-sdk-python](https://github.com/LitoMore/fanfou-sdk-python) - Fanfou SDK for Python
-- [fanfou-sdk-deno](https://github.com/LitoMore/fanfou-sdk-deno) - Fanfou SDK for Deno
-- [go-fanfou](https://github.com/mogita/go-fanfou) - Fanfou API library for Go
-- [fanfou-streamer](https://github.com/LitoMore/fanfou-streamer) - Fanfou Streaming SDK for Node.js
+- [fanfou-sdk-node](https://github.com/fanfoujs/fanfou-sdk-node) - SDK for Node.js
+- [fanfou-sdk-browser](https://github.com/fanfoujs/fanfou-sdk-browser) - SDK for Browser
+- [fanfou-sdk-weapp](https://github.com/fanfoujs/fanfou-sdk-weapp) - SDK for WeApp
+- [fanfou-sdk-python](https://github.com/LitoMore/fanfou-sdk-python) - SDK for Python
+- [fanfou-sdk-deno](https://github.com/LitoMore/fanfou-sdk-deno) - SDK for Deno
+- [go-fanfou](https://github.com/mogita/go-fanfou) - API library for Go
+- [fanfou-streamer](https://github.com/LitoMore/fanfou-streamer) - Streaming SDK for Node.js
 
 ## Tools
 
-- [bitbar-fanfou](https://github.com/LitoMore/bitbar-fanfou) - Fanfou `/account/notification` tool with BitBar
-- [fanfou-export](https://github.com/LitoMore/fanfou-export) - Export all your Fanfou statuses
-- [tt2ff](https://github.com/LitoMore/tt2ff) - Tool to synchronize Nintendo Switch tweets to Fanfou
-- [fanfou-desktop-notifier](https://github.com/LitoMore/fanfou-desktop-notifier) - Fanfou notifier for desktop
+- [bitbar-fanfou](https://github.com/LitoMore/bitbar-fanfou) - Notification tool with BitBar
+- [fanfou-export](https://github.com/LitoMore/fanfou-export) - Export all your statuses
+- [tt2ff](https://github.com/LitoMore/tt2ff) - Tool to synchronize Nintendo Switch tweets to timeline
+- [fanfou-desktop-notifier](https://github.com/LitoMore/fanfou-desktop-notifier) - Notifier for desktop
 
 ## Services
 
-- [maofan-apn](https://github.com/LitoMore/maofan-apn) - APN service with Fanfou Streaming API
+- [maofan-apn](https://github.com/LitoMore/maofan-apn) - APN service with Streaming API
 
 ## Events
 
-- [2019-guangzhou-fanfou](https://github.com/LitoMore/2019-guangzhou-fanfou) - Invitation page for 2019 Guangzhou Fanfou party
+- [2019-guangzhou-fanfou](https://github.com/LitoMore/2019-guangzhou-fanfou) - Invitation page for 2019 Guangzhou party
 
 ## Related
 
