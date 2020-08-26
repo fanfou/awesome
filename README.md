@@ -36,6 +36,7 @@ We code with ❤️ for Fanfou
 - [fanfou-sdk-python](https://github.com/LitoMore/fanfou-sdk-python) - Fanfou SDK for Python
 - [fanfou-sdk-deno](https://github.com/LitoMore/fanfou-sdk-deno) - Fanfou SDK for Deno
 - [go-fanfou](https://github.com/mogita/go-fanfou) - Fanfou API library for Go
+- [fanfou-streamer](https://github.com/LitoMore/fanfou-streamer) - Fanfou Streaming SDK for Node.js
 
 ## Tools
 
