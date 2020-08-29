@@ -26,7 +26,7 @@ We code with ❤️ for Fanfou
 - [alfred-fanfou](https://github.com/LitoMore/alfred-fanfou) - Alfred workflow
 - [cerebro-fanfou](https://github.com/LitoMore/cerebro-fanfou) - Cerebro plugin
 - [kap-fanfou](https://github.com/LitoMore/kap-fanfou) - Kap plugin
-- [Wox.Plugin.Fanfou](https://github.com/LitoMore) - Wox plugin
+- [Wox.Plugin.Fanfou](https://github.com/LitoMore/Wox.Plugin.Fanfou) - Wox plugin
 
 ## SDKs
 
